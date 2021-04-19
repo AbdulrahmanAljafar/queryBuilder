@@ -1,0 +1,12 @@
+C:\Users\abdul\OneDrive\سطح المكتب\tuwaiq .net\queryBuilder\queryBuilder\bin\Debug\netcoreapp3.1\queryBuilder.exe
+C:\Users\abdul\OneDrive\سطح المكتب\tuwaiq .net\queryBuilder\queryBuilder\bin\Debug\netcoreapp3.1\queryBuilder.deps.json
+C:\Users\abdul\OneDrive\سطح المكتب\tuwaiq .net\queryBuilder\queryBuilder\bin\Debug\netcoreapp3.1\queryBuilder.runtimeconfig.json
+C:\Users\abdul\OneDrive\سطح المكتب\tuwaiq .net\queryBuilder\queryBuilder\bin\Debug\netcoreapp3.1\queryBuilder.runtimeconfig.dev.json
+C:\Users\abdul\OneDrive\سطح المكتب\tuwaiq .net\queryBuilder\queryBuilder\bin\Debug\netcoreapp3.1\queryBuilder.dll
+C:\Users\abdul\OneDrive\سطح المكتب\tuwaiq .net\queryBuilder\queryBuilder\bin\Debug\netcoreapp3.1\queryBuilder.pdb
+C:\Users\abdul\OneDrive\سطح المكتب\tuwaiq .net\queryBuilder\queryBuilder\obj\Debug\netcoreapp3.1\queryBuilder.AssemblyInfoInputs.cache
+C:\Users\abdul\OneDrive\سطح المكتب\tuwaiq .net\queryBuilder\queryBuilder\obj\Debug\netcoreapp3.1\queryBuilder.AssemblyInfo.cs
+C:\Users\abdul\OneDrive\سطح المكتب\tuwaiq .net\queryBuilder\queryBuilder\obj\Debug\netcoreapp3.1\queryBuilder.csproj.CoreCompileInputs.cache
+C:\Users\abdul\OneDrive\سطح المكتب\tuwaiq .net\queryBuilder\queryBuilder\obj\Debug\netcoreapp3.1\queryBuilder.dll
+C:\Users\abdul\OneDrive\سطح المكتب\tuwaiq .net\queryBuilder\queryBuilder\obj\Debug\netcoreapp3.1\queryBuilder.pdb
+C:\Users\abdul\OneDrive\سطح المكتب\tuwaiq .net\queryBuilder\queryBuilder\obj\Debug\netcoreapp3.1\queryBuilder.genruntimeconfig.cache
